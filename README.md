@@ -19,7 +19,7 @@ Sweet, simple, and made to bring a smile to someone special ✨
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/143.i_._._a)
+- 📷 Instagram: [@143.i_._._a](https://instagram.com/143.i_._._a)
 ---
 
 ## ⭐ Support
