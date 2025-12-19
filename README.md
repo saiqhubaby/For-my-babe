@@ -26,10 +26,9 @@ Follow me for more emotional surprise websites and creative dev content:
 
 
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **SAIQ**
 
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
+✨support my work directly,
 Even a small contribution helps me keep creating cute, emotional projects 💖
 
 ---
