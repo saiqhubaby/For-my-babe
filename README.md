@@ -13,24 +13,6 @@ Sweet, simple, and made to bring a smile to someone special ✨
 
 ---
 
-## 🖥 Local Setup
-
-To run this project locally, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/Anuj579/love-lyrics-site.git
-
-# Navigate into the folder
-cd love-lyrics-site
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
 ---
 
 ## 🔗 Social Media
